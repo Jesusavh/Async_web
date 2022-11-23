@@ -1,0 +1,22 @@
+{
+  "name": "async_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesusavh/Async_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesusavh/Async_web/issues"
+  },
+  "homepage": "https://github.com/Jesusavh/Async_web#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
